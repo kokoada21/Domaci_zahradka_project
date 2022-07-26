@@ -1,0 +1,91 @@
+/*----------wholeWeb-------*/
+
+header {
+    display: none;
+}
+footer {
+    display: none;
+}
+
+/*----------index---------*/
+.mainWrap{
+    box-shadow: none;
+}
+.mainBg{
+    display: none;
+}
+.title p{
+    font-size: 20px;
+}
+.title{
+    margin-bottom: 0;
+}
+
+.strip-item-vertical img{
+    box-shadow: none;
+}
+
+.strip{
+    display: block;
+    page-break-inside: avoid;
+}
+
+.strip h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+/*---------productPages--------*/
+.titleProduct p{
+    font-size: 20px;
+}
+.productStripTitle{
+    font-size: 20px;
+}
+
+.productStrip{
+    display: block;
+    page-break-inside: avoid;
+}
+
+/*--------addons-------------*/
+
+.addonsStrip{
+    display: block;
+}
+
+.addonsStrip-item{
+    box-shadow: none;
+    page-break-inside: avoid;
+}
+
+/*----------aboutUs-------------*/
+.aboutUsDesrb p{
+    font-size: 12px;
+}
+
+.aboutUs-item_PhotoBox{
+    display: none;
+}
+
+.aboutUs-item_TextBox{
+    width: 100%;
+}
+
+.map {
+    display: none;
+}
+
+.contact{
+    break-inside: avoid;
+}
+
+/*----------faq-------------*/
+.faqStrip-item {
+    width: 100%;
+}
+
+/*----------photos-----------*/
+img{
+    display: none;
+}
